@@ -1,0 +1,16 @@
+{
+  "name": "university_management_system_UniMGT56",
+  "version": "6.6.16",
+  "main": "index.js",
+  "bin": "UniMGT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
